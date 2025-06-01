@@ -87,4 +87,4 @@
 Для работы с проектом потребуется Python 3.x и следующие библиотеки:
 
 `bash
-pip install pandas numpy matplotlib seaborn statsmodels scipy
+pip install pandas numpy matplotlib seaborn statsmodels scipy`
